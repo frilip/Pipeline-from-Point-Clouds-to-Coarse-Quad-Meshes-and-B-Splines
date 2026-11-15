@@ -147,6 +147,7 @@ It requires to have in the same folder a .corners, .c_feature, .feature files (w
 --- 
 
 The parametrization code has to be compiled with [G+Smo](https://gismo.github.io/). 
+
 The fitting code is closed source as of now. 
 
 --- 
@@ -159,15 +160,18 @@ quadwild mesh.obj
 ```
 
 will create the coarse quad mesh: mesh_quadrangulation.obj or mesh_quadrangulation_smooth.obj
+
 The smooth version refers to the last smoothing step of Pietroni's method.
 
-The above line will create all necessary files for the parametrization. Running in the same directory
+The above line will create all necessary files for the parametrization. Running in the same directory:
 
 ```
 projection_cc mesh
 ```
 
-- notice no suffix - will create the parametrization in a form readable by the fitting B-spline script...
+- notice no suffix 
+
+ will create the parametrization in a form readable by the fitting B-spline script...
 
 additional options:
 
