@@ -1,0 +1,7 @@
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/CoMISo.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/edit_cache.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/rebuild_cache.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/list_install_components.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/install.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/install/local.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/quadwild/libs/CoMISo/build/CMakeFiles/install/strip.dir
