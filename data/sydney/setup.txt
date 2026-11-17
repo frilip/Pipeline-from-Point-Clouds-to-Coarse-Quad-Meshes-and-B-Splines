@@ -1,0 +1,4 @@
+do_remesh 1 		  //remesh (1) or not (0) the input mesh
+sharp_feature_thr 35      //the dihedral angle of sharp features (-1 no features)
+alpha 0.02                //regularity vs isometry of the final tessellation. Close to zero -> more regular, Close to 1 -> more singularity are inserted
+scaleFact 100               //the scale of the final quadrangulation (the bigger the bigger the quads)
