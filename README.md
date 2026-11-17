@@ -189,6 +189,23 @@ to use the smoothed quadrangulation mesh instead of the plain.
  
 ---
 
+## Data structuring
+
+In the data folder there are some examples of triangle to coarse quad mesh conversions:
+
+Suppose a mesh called 'mesh',
+
+the file mesh.obj will be the triangle mesh, the files mesh_quaddrangulation.obj and mesh_quadrangulation_smooth.obj will be the coarse quad mesh files.
+
+Any other files (for example .cross) will be in between steps or data of the parametrization to be used for the last step of fitting a B-Spline.
+
+Any directory labeled 'fine' will store the fine instead of coarse quad mesh. 
+
+
+
+
+
+---
 
 ## References
 <a id="1">[1]</a> 
